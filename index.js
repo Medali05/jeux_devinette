@@ -4,7 +4,7 @@ let link =document.getElementById("link");
 let form =document.getElementById('form');
 
 const ghostnumber = Math.floor(Math.random()*100) +1;
-let attempt =4;
+let attempt =6;
 
 Button.onclick = function(){
  let input = document.getElementById('input');
